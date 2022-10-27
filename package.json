@@ -1,7 +1,7 @@
 {
-  "name": "newreacttemplate",
+  "name": "extremely-minimal-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "As minimal as can be.",
   "main": "index.ts",
   "scripts": {
     "test": "test"
