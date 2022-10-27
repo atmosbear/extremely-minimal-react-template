@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"package.json": true,
+		"node_modules": true,
+		"index.html": true,
+		"Start.tsx": true
+	}
+}
