@@ -8,5 +8,6 @@
 		"tailwind.config.js": true,
 		"postcss.config.js": true,
 		"StartPage.css": true,
+		"index.tsx": true,
 	}
 }
