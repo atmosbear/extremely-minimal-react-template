@@ -4,6 +4,9 @@
 		"node_modules": true,
 		"index.html": true,
 		"Start.tsx": true,
-		".gitignore": true
+		".gitignore": true,
+		"tailwind.config.js": true,
+		"postcss.config.js": true,
+		"StartPage.css": true,
 	}
 }
